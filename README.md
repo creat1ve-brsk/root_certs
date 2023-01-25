@@ -1,8 +1,8 @@
 # Root certificates for CryptoPro
 
-Тип|Кем выдан|Кому|Действует с|Действует по|Ссылка
-:---:|:---:|:---:|:---:|:---:|:---:
-Корневой|Минцифры России|Минцифры России|08.01.2022|08.01.2040|[kornevoi_mincif.cer](root/kornevoi_mincif.cer)
+Тип|Кем выдан|Кому|Действует с|Действует по
+:---:|:---:|:---:|:---:|:---:
+Корневой|[kornevoi_mincif.cer](root/kornevoi_mincif.cer)|[kornevoi_mincif.cer](root/kornevoi_mincif.cer)|08.01.2022|08.01.2040
 
 CA/fk_19.11.2033.cer
 CA/itcom.cert.cer
