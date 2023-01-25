@@ -11,5 +11,3 @@
 Промежуточный|[Минкомсвязь России](https://github.com/creat1ve-brsk/root_certs/raw/main/root/mincomsvyaz_01.07.2036.cer)|[Федеральное казначейство](https://github.com/creat1ve-brsk/root_certs/raw/main/CA/UTS-FK_2021.cer)|13.04.2021|13.04.2036
 Промежуточный|[Минцифры России](https://github.com/creat1ve-brsk/root_certs/raw/main/root/kornevoi_mincif.cer)|[Казначейство России](https://github.com/creat1ve-brsk/root_certs/raw/main/CA/promej_mincif_ufk.cer)|10.01.2022|10.01.2037
 Промежуточный|[Федеральное казначейство](https://github.com/creat1ve-brsk/root_certs/raw/main/CA/UTS-FK_2021.cer)|[Федеральное казначейство](https://github.com/creat1ve-brsk/root_certs/raw/main/CA/sufd.budget.gov.ru.cer)|11.02.2022|11.05.2023
-
-https://github.com/creat1ve-brsk/root_certs/raw/main/CA/UTS-FK_2021.cer
