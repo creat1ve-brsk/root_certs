@@ -1,5 +1,4 @@
 CA/fk_19.11.2033.cer
-CA/itcom.cert.cer
 CA/promej_mincif_ufk.cer
 CA/sufd.budget.gov.ru.cer
 CA/uts-fk_2020.cer
