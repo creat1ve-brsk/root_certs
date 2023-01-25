@@ -2,7 +2,7 @@
 
 Тип|Кем выдан|Кому|Действует с|Действует по
 :---:|:---:|:---:|:---:|:---:
-Корневой|[kornevoi_mincif.cer](root/kornevoi_mincif.cer)|[kornevoi_mincif.cer](root/kornevoi_mincif.cer)|08.01.2022|08.01.2040
+Корневой|[Минцифры России](root/kornevoi_mincif.cer)|[Минцифры России](root/kornevoi_mincif.cer)|08.01.2022|08.01.2040
 
 CA/fk_19.11.2033.cer
 CA/itcom.cert.cer
